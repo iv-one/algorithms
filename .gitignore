@@ -11,7 +11,4 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
-<<<<<<< HEAD
 .DS_Store
-=======
->>>>>>> f7b0afadce0bc2444e7bd446059704e672f1bcbf
