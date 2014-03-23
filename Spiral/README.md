@@ -1,4 +1,4 @@
-# Siral matrix
+# Spiral matrix
 
 Write an algorithm for filling 2D array as shown below:
 
